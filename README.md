@@ -1,5 +1,5 @@
 # Affective Robotics
-This is for an effective robotics project run by [Conflux Collective](https://confluxcollective.org/). Find more information about the project [here](https://conflux-harvard.notion.site/Welcome-to-Affective-Robotics-f89a02c6c15c4f26bd3a74a6aa493706?pvs=74).
+This is for an affective robotics project run by [Conflux Collective](https://confluxcollective.org/). Find more information about the project [here](https://conflux-harvard.notion.site/Welcome-to-Affective-Robotics-f89a02c6c15c4f26bd3a74a6aa493706?pvs=74).
 
 ## General Things You Will Need
 ### How to create a Virtual Environment
